@@ -2946,7 +2946,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UIPanel: {fileID: 1046543723}
   CutAndFillPanel: {fileID: 1942142133}
-  DesignPanel: {fileID: 0}
+  DesignPanel: {fileID: 1841756878}
 --- !u!4 &2048563949
 Transform:
   m_ObjectHideFlags: 0
