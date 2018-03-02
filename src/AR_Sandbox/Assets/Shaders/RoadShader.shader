@@ -53,10 +53,10 @@
 	{
 		float y = i.y_pos;
 
-	if (y <= .5)
-		return _ColorCut;
+		if (y <= .5)
+			return _ColorCut;
 
-	return _ColorFill;
+		return _ColorFill;
 	// sample the texture
 	//fixed4 col = tex2D(_MainTex, i.uv);
 	// apply fog
